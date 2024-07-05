@@ -46,104 +46,143 @@ Zip Code: 518033
 
 ---
 
-1. Deng Yang, Zhang Wenxuan, Xu Weiwen, **Shen Ying***, Lam Wai. Non-factoid Question Answering as Query-focused Summarization with Graph-enhanced Multi-hop Inference. ***IEEE Transactions on Neural Networks and Learning Systems***. 2023, 1-15. [[pdf]](https://ieeexplore.ieee.org/document/10083216)
-  
-2. Yang Min, Li Chengming, **Shen Ying***, Wu Qingyao*, Zhao Zhou, Chen Xiaojun. Hierarchical Human-like Deep Neural Networks for Abstractive Text Summarization. ***IEEE Transactions on Neural Networks and Learning Systems***. 2020, 32(6): 2744-2757. [[pdf]](https://ieeexplore.ieee.org/document/9146686)
-  
-3. Dong Chenhe, Li Yinghui, Gong Haifan, Chen Miaoxin, Li Junxin, **Shen Ying***, Yang Min*. A Survey of Natural Language Generation. ***ACM Computing Surveys***. 55(8), 1-38. [[pdf]](https://arxiv.org/pdf/2112.11739.pdf)
-  
-4. Dong Chenhe†, **Shen Ying†**, Lin Shiyang, Lin Zhenzhou, Deng Yang. A Unified Framework for Contextual and Factoid Question Generation. ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***. 2023. 1-14. [[pdf]](https://ieeexplore.ieee.org/document/10136803)
-  
-5. Li Yinghui, Zhang Xinwei, Zheng Hai-Tao*, **Shen Ying***. Automatic Context Pattern Generation for Entity Set Expansion. ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***. 2023. 1-12. [[pdf]](https://arxiv.org/pdf/2207.08087.pdf)
-  
-6. Deng Yang, Xie Yuexiang, Li Yaliang, Yang Min, Lam Wai, **Shen Ying***. Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge. ***ACM Transactions on Information Systems.*** 2021, 40(1): 1-33. [[pdf]](https://arxiv.org/pdf/2104.05216.pdf)
-  
-7. **Shen Ying**, Li Dagang, Du Nan. Modeling Path Information for Knowledge Graph Completion. ***Neural Computing and Applications***, 2022, 34(3): 1951-1961. [[pdf]](https://link.springer.com/article/10.1007/s00521-021-06460-2)
-  
-8. Lei Kai, Zhang Jin, Xie Yuexiang, Wen Desi, Chen Daoyuan, Yang Min, **Shen Ying***. Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion. ***Neural Computing and Applications***, 2020, 32(11): 6957-6966. [[pdf]](https://link.springer.com/article/10.1007/s00521-019-04181-1)
-  
-9. Lei Kai, Xie Yuexiang, Zhong Shangru, Daijing Chao, Yang Min, **Shen Ying***. Generative Adversarial Fusion Network for Class Imbalance Credit Scoring, ***Neural Computing and Applications***, 2020, 32(12): 8451-8462. [[pdf]](https://link.springer.com/article/10.1007/s00521-019-04335-1)
-  
-10. Yang Min, Qu Qiang, **Shen Ying**, Zhao Zhou, Chen Xiaojun, Li Chengming. An Effective Hybrid Learning Model for Real-Time Event Summarization. ***IEEE Transactions on Neural Networks and Learning Systems.*** 2020. 32(10), 4419-4431. [[pdf]](https://ieeexplore.ieee.org/document/9181439)
-  
-11. Yang Min, Huang Weiyi, Tu Wenting, Qu Quaing, **Shen Ying**, Lei Kai. Multitask Learning and Reinforcement Learning for Personalized Dialog Generation: An Empirical Study. ***IEEE Transactions on Neural Networks and Learning Systems***. 99(2020), 1-14. [[pdf]](https://ieeexplore.ieee.org/document/9025776)
-  
-12. Yang Min, Liu Junhao, **Shen Ying**, Zhao Zhou, Chen Xiaojun, Wu Qingyao, Li Chengming. An Ensemble of Generation-and Retrieval-Based Image Captioning With Dual Generator Generative Adversarial Network. ***IEEE Transactions on Image Processing***. 29 (2020), 9627-9640. [[pdf]](https://ieeexplore.ieee.org/document/9226120)
-  
-13. Yang Min, Chen Lei, Lyu Ziyu, Liu, Junhao, **Shen Ying**, Wu, Qingyao. Hierarchical fusion of common sense knowledge and classifier decisions for answer selection in community question answering. ***Neural Networks***, 117(2019), 240-248. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S089360802030294X?via%3Dihub)
-  
-14. Yang Min, Wang Xintong, Lu Yao, Lv Jianming, Shen Ying, Li Chengming. Plausibility-promoting Generative Adversarial Network for Abstractive Text Summarization with Multi-task Constraint. ***Information Sciences***, 2020, 56(3), 381-393. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520301225)
-  
-15. Yang Min, Qu Qiang, Chen Xiaojun, Tu Wenting, **Shen Ying**, Zhu Jia. Discovering Author Interest Evolution in Order-sensitive and Semantic-aware Topic Modeling. ***Information Sciences***, 2019, 486, 271-286. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0020025516308222)
-  
-16. Xu Chunpu, Yang Min, Ao Xiang, **Shen Ying**, Xu Ruifeng, Tian Jinwen. Retrieval-enhanced adversarial training with dynamic memory-augmented attention for image paragraph captioning. ***Knowledge-based Systems***. 2021. 214 (2021): 106730. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120308595)
-  
-17. Lei Kai, Zhang Lizhu, Liu Ying, **Shen Ying**, Liu Chenwei, Yu Qiang, Weng Weitao. An event summarizing algorithm based on the timeline relevance model in Sina Weibo. ***Science China Information Sciences (SCIS)***, 2018, 61(12), 129101. [[pdf]](https://link.springer.com/article/10.1007/s11432-016-9333-4)
-  
-18. Yang Min, Qu Qiang, **Shen Ying**, Lei Kai, Zhu Jia. Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization by Combining Topic Modeling and Deep Reinforcement Learning. ***Neural Computing and Applications***, 2018, 1-13. [[pdf]](https://link.springer.com/article/10.1007/s00521-018-3825-2)
-  
-19. Yang Min, Tu Wenting, Qu Qiang, Lei Kai, Chen X, Zhu Jia, **Shen Ying**. MARES: multitask learning algorithm for Web-scale real-time event summarization. ***World Wide Web Journal***. 2018, 1-17. [[pdf]](https://link.springer.com/article/10.1007/s11280-018-0597-7)
-  
+1.	Yang Min, Junhao Liu, Lei Chen, Zhao Zhou, Chen Xiaojun, **Shen Ying***. An Advanced Deep Generative Framework for Link Prediction in Dynamic Networks. _**IEEE Transactions on Cybernetics**_. 2020, 50(12), 4946-4957. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8736786/) (通讯作者，SCI JCR一区，中科院一区, IF:19.118)
+
+2.	Dong Chenhe, Li Yinghui, Gong Haifan, Chen Miaoxin, Li Junxin, **Shen Ying***, Yang Min*. A Survey of Natural Language Generation. _**ACM Computing Surveys**_. 2022. 55(8), 1-38. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3554727) (通讯作者，SCI JCR一区，中科院一区, IF:16.6)(获2022 深圳市优秀科技学术论文奖)(高被引论文)
+
+3.	Zhao Xiaoyan, Deng Yang, Yang Min*, Wang Lingzhi, Zhang Rui, Cheng Hong, Lam Wai, **Shen Ying***, Xu Ruifeng. A Comprehensive Survey on Relation Extraction: Recent Advances and New Frontiers. _**ACM Computing Surveys**_. 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3674501) (通讯作者，SCI JCR一区，中科院一区, IF:16.6)
+
+4.	Deng Yang, Zhang Wenxuan, Xu Weiwen, **Shen Ying***, Lam Wai. Non-factoid Question Answering as Query-focused Summarization with Graph-enhanced Multi-hop Inference. _**IEEE Transactions on Neural Networks and Learning Systems**_. 2023, 1-15. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10083216/) (通讯作者，SCI JCR一区，中科院一区, IF: 14.255) (高被引论文)
+
+5.	**Shen Ying**, Yang Min, Li Yaliang, Wang Dong, Zheng Haitao, Chen Daoyuan*. Knowledge-based Reasoning Network for Relation Detection. _**IEEE Transactions on Neural Networks and Learning Systems**_. 2021. 1-13. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3554727) (第一作者，SCI JCR一区，中科院一区, IF: 14.255)
+
+6.	Yang Min, Li Chengming, Shen Ying*, Wu Qingyao*, Zhao Zhou, Chen Xiaojun. Hierarchical Human-like Deep Neural Networks for Abstractive Text Summarization. _**IEEE Transactions on Neural Networks and Learning Systems**_. 2020, 32(6): 2744-2757. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9609093/) (第一通讯，SCI JCR一区，中科院一区, IF: 14.255)
+
+7.	**Shen Ying**, Ding Ning, Zheng Hai-Tao, Li Yaliang, Yang Min*. Modeling Relation Paths for Knowledge Graph Completion. _**IEEE Transactions on Knowledge and Data Engineering (TKDE)**_. 2020, 33(11): 3607-3617. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8974254/7) (第一作者，SCI JCR一区，中科院二区, IF: 9.235) (高被引论文、热点论文)
+
+8.	Dong Chenhe†, **Shen Ying†**, Lin Shiyang, Lin Zhenzhou, Deng Yang*. A Unified Framework for Contextual and Factoid Question Generation. _**IEEE Transactions on Knowledge and Data Engineering (TKDE)**_. 2023. 1-14. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10136803/) (共一作者，SCI JCR一区，中科院二区, IF: 9.235)
+
+9.	Li Yinghui, Zhang Xinwei, Zheng Hai-Tao*, **Shen Ying***. Automatic Context Pattern Generation for Entity Set Expansion. _**IEEE Transactions on Knowledge and Data Engineering (TKDE)**_. 2023. 1-12. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10122990) (共同通讯，SCI JCR一区，中科院二区, IF: 9.235)
+
+10.	Zhang Yilin, Li Ziran, Liu Zhiyuan, Zheng Hai-Tao*, **Shen Ying***, Zhou Lan. Event Detection with Dynamic Word-Trigger-Argument Graph Neural Networks. _**IEEE Transactions on Knowledge and Data Engineering (TKDE)**_. 2021,1-12. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9645177/) (共同通讯，SCI JCR一区，中科院二区, IF: 9.235)
+
+11.	Lei Kai, Zhang Bing, Li Yu, Yang Min, **Shen Ying***. Time-driven Feature-aware Jointly Deep Reinforcement Learning for Financial Signal Representation and Algorithmic Trading. _**Expert Systems with Applications**_, 2020, 140:112872. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0957417419305822) (通讯作者, SCI JCR一区，中科院二区、小类一区, IF: 8.665)
+
+12.	**Shen Ying**, Yuan Kaiqi, Tang Buzhou, Li Yaliang, Du Nan, Yang Min, Lei Kai. KMR: Knowledge-oriented Medicine Representation Learning for Drug-Drug Interaction and Similarity Computation. _**Journal of Cheminformatics**_, 2019, 11(1), 22. [[pdf]](https://link.springer.com/article/10.1186/s13321-019-0342-y) (第一作者，SCI JCR一区，中科院二区、小类一区, IF: 8.489) 
+
+13.	Zha Enze, Zeng Delong, Lin Man, **Shen Ying***. CEPTNER: Contrastive learning Enhanced Prototypical network for Two-stage few-shot Named Entity Recognition. _**Knowledge-based Systems**_. 2024, 295 (2024) 111730. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124003654) (通讯作者，SCI JCR一区，中科院二区, IF: 8.8)
+
+14.	Zhou Ting, **Shen Ying***, Chen Kang*, Cao Qing*. Hierarchical dual graph convolutional network for aspect-based sentiment analysis. _**Knowledge-based Systems**_. 2023. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123004902) (共同通讯，SCI JCR一区，中科院二区, IF: 8.8)
+
+15.	Zeng Delong, Zha Enze, Kuang Jiayi, **Shen Ying***. Multi-label text classification based on Semantic-sensitive Graph Convolutional Network. _**Knowledge-based Systems**_. 2023. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010511) (通讯作者，SCI JCR一区，中科院二区, IF: 8.8)
+
+16.	Li Yangning, Li Yinghui, Chen Xi, Zheng Hai-Tao*, **Shen Ying***. Active relation discovery: Towards general and label-aware open relation extraction. _**Knowledge-based Systems**_. 2023. 282 (2023) 111094. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123008444) (共同通讯，SCI JCR一区，中科院二区, IF: 8.8)
+
+17.	**Shen Ying***, Colloc Joel, Jacquet-Andrieu Armelle, Lei Kai. Emerging Medical Informatics with Case-Based Reasoning for Aiding Clinical Decision in Multi-Agent System. _**Journal of Biomedical Informatics**_, 2015, 56: 307–317. [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046415001227) (第一作者，SCI JCR二区，中科院三区, IF: 8.00) (高被引论文)
+
+18.	**Shen Ying**, Zhang Lizhu, Zhang Jin, Yang Min, Tang Buzhou, Li Yaliang, Lei Kai. CBN: Constructing a Clinical Bayesian Network based on Data from the Electronic Medical Record. _**Journal of Biomedical Informatics**_, 2018, 88: 1–10. [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046418302041) (第一作者，SCI JCR二区，中科院三区, IF: 8.00)
+
+19.	**Shen Ying**, Yuan Kaiqiai, Chen Daoyuan, Colloc Joel, Yang Min, Li Yaliang, Lei Kai. An Ontology-driven Clinical Decision Support System (IDDAP) for Infectious Disease Diagnosis and Antibiotic Prescription. _**Artificial intelligence in medicine**_, 2018, 86, 20-32. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365717302348) (第一作者，SCI JCR一区，中科院三区, IF: 7.011)
+
+20.	Deng Yang, Xie Yuexiang, Li Yaliang, Yang Min, Lam Wai, **Shen Ying***. Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge. _**ACM Transactions on Information Systems**_. 2021, 40(1): 1-33. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3457533) (通讯作者，SCI JCR一区，中科院二区, IF: 4.797)
+
+21.	Yuan Kaiqi, Zhang Yilin, Yaliang Li, Zheng Haitao, **Shen Ying***. A Knowledge-Enhanced Multi-View Framework for Drug-Target Interaction Prediction. _**IEEE Transaction on Big Data**_. 2021, 1-13. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9324998/) (通讯作者，SCI JCR一区，IF: 4.271)
+
+22.	Li Ronghao, **Shen Ying***. YOLOSR-IST: A Deep Learning Method for Small Target Detection in Infrared Remote Sensing Images based on Super-Resolution and YOLO. _**Signal Processing**_. 2023: 108962. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0165168423000361) (通讯作者，SCI JCR一区，IF: 4.729)
+
+23.	**Shen Ying**, Li Huizhi, Zheng Jingwei, Wang Wenmin, Li Dagang*. ANGraph: Attribute-Interactive Neighborhood-Aggregative Graph Representation Learning. _**Neural Computing and Applications**_, 2022: 1-13. [[pdf]](https://link.springer.com/article/10.1007/s00521-022-07426-8) (第一作者，SCI JCR一区，中科院二区, IF: 5.102)
+
+24.	**Shen Ying**, Li Dagang, Du Nan. Modeling Path Information for Knowledge Graph Completion. _**Neural Computing and Applications**_, 2022, 34(3): 1951-1961. [[pdf]](https://link.springer.com/article/10.1007/s00521-021-06460-2) (第一作者，SCI JCR一区，中科院二区, IF: 5.102)
+
+25.	Lei Kai, Zhang Jin, Xie Yuexiang, Wen Desi, Chen Daoyuan, Yang Min, **Shen Ying***. Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion. _**Neural Computing and Applications**_, 2020, 32(11): 6957-6966. [[pdf]](https://link.springer.com/article/10.1007/s00521-019-04181-1) (通讯作者，SCI JCR一区，中科院二区, IF: 5.102) 
+
+26.	Lei Kai, Xie Yuexiang, Zhong Shangru, Daijing Chao, Yang Min, **Shen Ying***. Generative Adversarial Fusion Network for Class Imbalance Credit Scoring, _**Neural Computing and Applications**_, 2020, 32(12): 8451-8462. [[pdf]](https://link.springer.com/article/10.1007/s00521-019-04335-1) (通讯作者，SCI JCR一区，中科院二区, IF: 5.102)
+
+27.	**Shen Ying**, Yuan Kaiqi, Dai Jinchao, Tang Buzhou, Yang Min, Lei Kai. KGDDS: A System for Drug-Drug Similarity Measure in Therapeutic Substitution based on Knowledge Graph Curation. _**Journal of Medical Systems**_, 2019, 43(4), 92. [[pdf]](https://link.springer.com/article/10.1007/s10916-019-1182-z) (第一作者，SCI JCR二区，中科院三区, IF: 4.920)
+
+28.	**Shen Ying**, Li Yaliang, Zheng Haitao, Tang Buzhou, Yang Min. Enhancing Ontology-Driven Diagnostic Reasoning with a Symptom-Dependency-Aware Naïve Bayes Classifier. _**BMC Bioinformatics**_. (2019) 20:330. [[pdf]](https://link.springer.com/article/10.1186/s12859-019-2924-0) (第一作者，SCI JCR一区，中科院二分区, IF: 4.341)
+
 
 ### 会议
 
 ---
 
-1. Deng Yang, Lam Wai, Xie Yuexiang, Chen Daoyuan, Li Yaliang, Yang Min, **Shen Ying***. Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. In *The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, USA, February 7-12, 2020. pp.7651-7658. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6266)
-  
-2. Xie Yuexiang, **Shen Ying**, Li Yaliang, Yang Min, Lei Kai. Attentive User-engaged Adversarial Neural Network for Community Question Answering. In *The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, USA, February 7-12, 2020. pp. 9322-9329. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6472)
-  
-3. Li Ziran, Lin Zibo, Ding Ning, Zheng Haitao*, **Shen Ying***. Triple-to-Text Generation with an Anchor-to-Prototype Framework. In *The 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)*. Kanagawa, Japan, July 11–17, 2020. pp. 3780-3786. [[pdf]](https://www.ijcai.org/proceedings/2020/523)
-  
-4. Deng Yang, Zhang Wenxuan, Li Yaliang, Yang Min, Lam Wai, **Shen Ying***. Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization. In *The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval* ***(SIGIR 2020)***, Xi'an, China, July 25–30, 2020. pp. 1693-1696. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401208)
-  
-5. Yang Min, Zhou Wei, Wu Qingyao, **Shen Ying***, Chen Xiaojun, Chen Lei. Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning. In *The 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)*. Macao, China, August 10-16, 2019. pp. 5349-5355. [[pdf]](https://www.ijcai.org/proceedings/2019/743)
-  
-6. Deng Yang, Xie Yuexiang, Li Yaliang, Yang Min, Du Nan, Fan Wei, Lei Kai, **Shen Ying***. Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering. In *The Thirty-Third AAAI Conference on Artificial Intelligence* (***AAAI 2019***). Honolulu, Hawaii, USA, January 27 – February 1, 2019. 33, pp. 6318-6325. ACM. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/4593)
-  
-7. Chen Daoyuan, Zheng Haitao, Yang Min, Li Yaliang, **Shen Ying***. Answer-enhanced Path-aware Relation Detection over Knowledge Base. In *The 42nd International ACM SIGIR Conference on Research & Development in Information Retrieval* (***SIGIR
-  2019)***. SIGIR: Paris, France, July 21-25, 2019. pp. 1021-1024. ACM. [[pdf]](https://dl.acm.org/doi/10.1145/3331184.3331328)
-  
-8. **Shen Ying**, Deng Yang, Yang Min, Li Yaliang, Du Nan, Fan Wei, Lei Kai. Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs. In *The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval* (***SIGIR 2018)***. SIGIR: Ann Arbor, Michigan, USA, July 8-12, 2018. pp. 901-904. ACM. [[pdf]](https://dl.acm.org/doi/10.1145/3209978.3210081)
-  
-9. Geng Binzong, Yuan Fajie, Xu Qiancheng, **Shen Ying**, Xu Ruifeng, Yang Min*. Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking. In *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing* ***(ACL 2021)***. Virtual Conference, August 2 – 4, 2021. 517–523. [[pdf]](https://aclanthology.org/2021.acl-short.66.pdf)
-  
-10. Xu Chunpu, Yang Min, Li Chengming, **Shen Ying**, Ao Xiang, Xu Ruifeng. Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning. In *The Thirty-Fifth AAAI Conference on Artificial Intelligence* ***(AAAI 2021)***, Virtual Conference, February 2-9, 2021. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16410)
-  
-11. Wang Lihan, Yang Min, Li Chengmin, **Shen Ying**, Xu Ruifeng. Abstractive Text Summarization with Hierarchical Multi-scale Abstraction Modeling and Dynamic Memory. *The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval* ***(SIGIR 2021)***, Virtual Conference, July 11-15, 2021. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3404835.3462998)
-  
-12. Bai Yang, Li Ziran, Ding Ning, **Shen Ying**, Zheng Haitao. Infobox-to-text Generation with Tree-like Planning based Attention Network. In *The 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)*. Kanagawa, Japan, July 11–17, 2020. [[pdf]](https://www.ijcai.org/proceedings/2020/522)
-  
-13. Yang Min, Li Chengming, Sun Fei, Zhao Zhou, **Shen Ying**, Wu Chenglin. Be Relevant, Non-redundant, Timely: Deep Reinforcement Learning for Real-time Event Summarization. In *The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, USA, February 7-12, 2020. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6483)
-  
-14. Lin Zibo, Li Ziran, Ding Ning, Zheng Hai-Tao, **Shen Ying**, Wang Wei, Zhao Cong-Zhi. Integrating Linguistic Knowledge to Sentence Paraphrase Generation. In *The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, USA, February 7-12, 2020. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6354)
-  
-15. Liu Junhao, Wang Kai, Xu Chunpu, Zhao Zhou, Xun Ruifeng, **Shen Ying**, Yang Min. Interactive Dual Generative Adversarial Networks for Image Captioning. In *The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, USA, February 7-12, 2020. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6826)
-  
-16. Yang Min, Qu Qiang, Tu Wenting, **Shen Ying**, Zhao Zhou, Chen Xiaojun. Exploring Human-Like Reading Cognition for Abstractive Text Summarization. In *The Thirty-Third AAAI Conference on Artificial Intelligence* (***AAAI 2019***). Honolulu, Hawaii, USA, January 27 – February 1, 2019. 33, pp. 7362-7369. ACM. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/4724)
-  
-17. Du Wenyu, Li Baocheng, Yang Min, Qu Qiang, **Shen Ying**. A Multi-Task Learning Approach for Answer Selection: A Study and a Chinese Law Dataset. In *The Thirty-Third AAAI Conference on Artificial Intelligence* (***AAAI-19***). Honolulu, Hawaii, USA, January 27 – February 1, 2019. 33, pp. 9935-9936. ACM. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/5104)
-  
-18. Zishuo Zhao, Yuexiang Xie, Jingyou Xie, Zhenzhou Lin, Yaliang Li, **Shen Ying***. Source-free Unsupervised Domain Adaptation for Question Answer. In *The 48th international Conference on Acoustics, Speech, & Signal Processing* ***(ICASSP 2023)***. June 4-10. Greece. 2023. [[pdf]](https://arxiv.org/pdf/2212.09563.pdf)
-  
-19. Huang Shulin, Ma Shirong, Li Yinghui, Li Yangning, Lin Shiyang, Zheng Hai-Tao*, **Shen Ying***. Towards Attribute-Entangled Controllable Text Generation: A Pilot Study of Blessing Generation. In *The 2022 Conference on Empirical Methods in Natural Language Processing* ***(EMNLP 2022 workshop)***. Abu Dhabi, UAE. Dec 7, 2022. 248-261. [[pdf]](https://aclanthology.org/2022.gem-1.20.pdf)
-  
-20. Wang Dong†, **Shen Ying†**, Li Ziran, Lin Zibo, Zheng Hai-Tao. Knowledge Enhanced Latent Relevane Mining for Question Answering. In *The* *45th International Conference on Acoustics, Speech, and Signal Processing* ***(ICASSP 2020)***. Barcelona, Spain, May 4-8, 2020. pp. 4282-4286. [[pdf]](https://ieeexplore.ieee.org/document/9053432)
-  
-21. Wang Liuyin, Xu Zihan, Lin Zibo, Zheng Haitao*, **Shen Ying***. Answer-driven Deep Question Generation based on Reinforcement Learning. In *The 28th International Conference on Computational Linguistics* ***(COLING 2020)***. Online, December 8-13, 2020. pp. 5159–5170. [[pdf]](https://aclanthology.org/2020.coling-main.452.pdf)
-  
-22. Wang Dong, Li Ziran, Zheng Haitao*, **Shen Ying***. Integrating User History into Heterogeneous Graph for Dialogue Act Recognition. In *The 28th International Conference on Computational Linguistics* ***(COLING 2020)***. Online, December 8-13, 2020. pp. 4211-4221. [[pdf]](https://aclanthology.org/2020.coling-main.372.pdf)
-  
-23. Sheng Dongming, Wang Dong, **Shen Ying**, Zheng Haitao, Liu Haozhuang. Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition. In *The 28th International Conference on Computational Linguistics* ***(COLING 2020)***. Online, December 8-13, 2020. pp. 4153–4163. [[pdf]](https://aclanthology.org/2020.coling-main.367.pdf)
-  
-24. He Wanwei, Yang Min, Yan Rui, Li Chengming, **Shen Ying**, Xu Ruifeng. Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training. In *The 2020 Conference on Empirical Methods in Natural Language Processing* ***(EMNLP 2020)***.16th – 20th November 2020. [[pdf]](https://aclanthology.org/2020.emnlp-main.281.pdf)
-  
-25. **Shen Ying**, Wen Desi, Li Yaliang, Du Nan, Zheng Haitao, Yang Min, Path-based Attribute-aware Representation Learning for Relation Prediction. In *The SIAM International Conference on Data Mining* ***(SDM 2019)***. Calgary, Canada. May 2 - May 4, 2019. pp. 639-647. [[pdf]](https://epubs.siam.org/doi/10.1137/1.9781611975673.72)
-  
-26. Deng Yang, **Shen Ying***, Yang Min, Li Yaliang, Du Nan, Fan Wei, Lei Kai. Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge. In *The 27th International Conference on Computational Linguistics* ***(COLING 2018)***. Santa Fe, New-Mexico, USA, August 20-26, 2018. pp. 3295-3305. [[pdf]](https://aclanthology.org/C18-1279.pdf)
-  
-27. Lei Kai, Chen Daoyuan, Li Yaliang, Yang Min, Du Nan, Fan Wei, **Shen Ying***. Cooperative Denoising for Distantly Supervised Relation Extraction. In *The 27th International Conference on Computational Linguistics* ***(COLING 2018)***. Santa Fe, New-Mexico, USA, August 20-26, 2018. pp. 426-436. **(COLING 2018 Best Paper Award-Area Chair Favorite)** [[pdf]](https://aclanthology.org/C18-1036.pdf)
-  
-28. Yang Min, Qu Qiang, **Shen Ying**, Liu Qiao, Zhao Wei, Zhu Jia. Aspect and sentiment aware abstractive review summarization. In *The 27th International Conference on Computational Linguistics ***(COLING 2018)***. Santa Fe, New-Mexico, USA, August 20-26, 2018. pp. 1110-1120. [[pdf]](https://aclanthology.org/C18-1095.pdf)
-  
-29. Yang Min, Qu Qiang, Zhu Jia, **Shen Ying**, Zhao Zhou. Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization. In *The 27th ACM International Conference on Information and Knowledge Management* ***(CIKM 2018)***. Turin, Italy, October 22-26, 2018. pp. 1531-1534. [[pdf]](https://aclanthology.org/C18-1095.pdf)
+1.	Ling Zhenqing, Chen Daoyuan, Liu Yi, Li Yaliang, **Shen Ying***. On the Convergence of Zeroth-Order Federated Tuning for Large Language Models. _**ACM KDD 2024**_, August 25-29, 2024, Barcelona, Spain. [[pdf]](https://arxiv.org/abs/2402.05926) (通讯作者，中国计算机学会推荐A类顶级会议)
+
+2.	Luo Haohao, Deng Yang, **Shen Ying***, Ng See-Kiong, Chua Tat-Seng. Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation. _**The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)**_, August 11–16, 2024, Bangkok, Thailand. (通讯作者，中国计算机学会推荐A类顶级会议)
+
+3.	Xu Zhe, Chen Daoyuan, Kuang Jiayi, Yi Zihao, Li Yaliang, **Shen Ying***. Dynamic Demonstration Retrieval and Cognitive Understanding for Emotional Support Conversation._ **The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**_, July 14-18, 2024, Washington D.C., USA. [[pdf]](https://arxiv.org/abs/2404.02505) (通讯作者，中国计算机学会推荐A类顶级会议)
+
+4.	Li Yinghui, Xu Zishan, Chen Shaoshen, Huang Haojing, Li Yangning, Ma Shirong, Jiang Yong, Li Zhongli, Zhou Qingyu, Zheng Hai-Tao*, **Shen Ying***. Towards Real-World Writing Assistance: A Chinese Character Checking Benchmark with Faked and Misspelled Characters. _**The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)**_, August 11–16, 2024, Bangkok, Thailand. [[pdf]](https://arxiv.org/abs/2311.11268) (共同通讯，中国计算机学会推荐A类顶级会议)
+
+5.	Lin Zhenzhou, Zhao Zishuo, Xie Jingyou, **Shen Ying***. Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding. _**In The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)**_, Taipei, Taiwan, July 23, 2023. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3539618.3591996) (通讯作者，中国计算机学会推荐A类顶级会议)
+
+6.	Li Yinghui, Li Yangning, He Yuxin, Yu Tianyu, **Shen Ying***, Zheng Hai-Tao*. Contrastive Learning with Hard Negative Entities for Entity Set Expansion. _**In The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)**_, Madrid, Spain, July 11–15, 2022, 1077-1086. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531954) (第一通讯，中国计算机学会推荐A类顶级会议长文)
+
+7.	Feng Lingyun, Qiu Minghui, Li Yaliang, Zheng Hai-Tao*, **Shen Ying***. Learning to Augment for Data-scarce Domain BERT Knowledge Distillation. _**In The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)**_, Virtual Conference, February 2-9, 2021, 35(8): 7422-7430. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16910) (第一通讯，中国计算机学会推荐A类顶级会议长文)
+
+8.	Chen Daoyuan, Li Yaliang, Lei Kai, **Shen Ying***. Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents. _**In The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)**_, Seattle, Washington, USA, 5-10 July 2020, pp.5940-5950. [[pdf]](https://aclanthology.org/2020.acl-main.527/) (通讯作者，CCF A类会议长文)
+
+9.	Deng Yang, Lam Wai, Xie Yuexiang, Chen Daoyuan, Li Yaliang, Yang Min, **Shen Ying***. Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. _**In The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)**_, New York, USA, February 7-12, 2020. pp.7651-7658. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6266) (通讯作者，CCF A类会议长文)
+
+10.	Xie Yuexiang†, **Shen Ying†**, Li Yaliang, Yang Min, Lei Kai. Attentive User-engaged Adversarial Neural Network for Community Question Answering. _**In The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)**_, New York, USA, February 7-12, 2020. pp. 9322-9329. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6472) (共同一作，CCF A类会议长文)
+
+11.	Li Ziran, Lin Zibo, Ding Ning, Zheng Haitao*, **Shen Ying***. Triple-to-Text Generation with an Anchor-to-Prototype Framework. _**In The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020)**_. Kanagawa, Japan, July 11–17, 2020. pp. 3780-3786. [[pdf]](https://dl.acm.org/doi/abs/10.5555/3491440.3491963) (通讯作者，CCF A类会议长文)
+
+12.	Deng Yang, Zhang Wenxuan, Li Yaliang, Yang Min, Lam Wai, **Shen Ying***. Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization. _**In The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020)**_, Xi'an, China, July 25–30, 2020. pp. 1693-1696. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401208) (通讯作者，CCF A类会议长文) 
+
+13.	Yang Min, Zhou Wei, Wu Qingyao, **Shen Ying***, Chen Xiaojun, Chen Lei. Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning. _**In The 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)**_. Macao, China, August 10-16, 2019. pp. 5349-5355. [[pdf]](https://www.ijcai.org/proceedings/2019/0743.pdf) (通讯作者，CCF A类会议长文)
+
+14.	Deng Yang, Xie Yuexiang, Li Yaliang, Yang Min, Du Nan, Fan Wei, Lei Kai, **Shen Ying***. Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering. _**In The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)**_. Honolulu, Hawaii, USA, January 27 – February 1, 2019. 33, pp. 6318-6325. ACM. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4593) (通讯作者，CCF A类会议长文)
+
+15.	Chen Daoyuan, Zheng Haitao, Yang Min, Li Yaliang, **Shen Ying***. Answer-enhanced Path-aware Relation Detection over Knowledge Base. _**In The 42nd International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2019)**_. SIGIR: Paris, France, July 21-25, 2019. pp. 1021-1024. ACM. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3331184.3331328) (通讯作者，CCF A类会议)
+
+16.	**Shen Ying**, Deng Yang, Yang Min, Li Yaliang, Du Nan, Fan Wei, Lei Kai. Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs. _**In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2018)**_. SIGIR: Ann Arbor, Michigan, USA, July 8-12, 2018. pp. 901-904. ACM. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3209978.3210081) (第一作者，CCF A类会议)
+
+17.	**Shen Ying**, Chen Daoyuan, Yang Min, Li Yaliang, Du Nan, Lei Kai. Ontology Evaluation with Path-based Text-aware Entropy Computation. _**In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2018)**_. SIGIR: Ann Arbor, Michigan, USA, July 8-12, 2018. pp. 881-884. ACM. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3209978.3210067) (第一作者，CCF A类会议)
+
+18.	Dong Chenhe, Li Yaliang, **Shen Ying***, Qiu Minghui. HRKD: Hierarchical Relational Knowledge Distillation for Cross-domain Language Model Compression. _**In The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)**_. Punta Cana, Dominican Republic, Nov 7 – 11, 2021, pp. 3126-3136. [[pdf]](https://aclanthology.org/2021.emnlp-main.250/) (通讯作者，CCF A类会议正会长文)
+
+19.	Ye Jingheng, Li Yinghui, Zhou Qingyu, Li Yangning, Ma Shirong, Zheng Hai-Tao*, **Shen Ying***. CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction. _**In The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**_. Singapore. Dec 6 – 10, 2023. [[pdf]](https://aclanthology.org/2023.emnlp-main.378/) (通讯作者，CCF A类会议正会长文)
+
+20.	Dong Chenhe, Xie Yuexiang, Ding Bolin, **Shen Ying***, Li Yaliang. Tunable Soft Prompts are Messengers in Federated Learning. _**In The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**_. Singapore. Dec 6 – 10, 2023. pp.14665–14675. [[pdf]](https://aclanthology.org/2023.findings-emnlp.976/) (通讯作者，CCF A类会议Finding长文)
+
+21.	Luo Haohao, **Shen Ying**, Deng Yang*. Unifying Text, Tables, and Images for Multimodal Question Answering. _**In The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**_. Singapore. Dec 6 – 10, 2023. [[pdf]](https://aclanthology.org/2023.findings-emnlp.626/) (CCF A类会议Finding长文)
+
+22.	Liu Mengsha, Chen Daoyuan, Li Yaliang, Fang Guian, **Shen Ying***. ChartThinker: A Contextual Chain-of-Thought Approach to Optimized Chart Summarization. _**In The 32nd International Conference on Computational Linguistics (COLING 2024)**_. Torino, Italy. May 20-25, 2024. [[pdf]](https://aclanthology.org/2024.lrec-main.273/) (通讯作者，CCF B类会议长文)
+
+23.	Zhao Zishuo, Ma Ziyang, Lin Zhenzhou, Xie Jingyou, Li Yinghui*, **Shen Ying***. Source-free Domain Adaptation for Aspect-based Sentiment Analysis. _**In The 32nd International Conference on Computational Linguistics (COLING 2024)**_. Torino, Italy. May 20-25, 2024. [[pdf]](https://aclanthology.org/2024.lrec-main.1310/) (通讯作者，CCF B类会议长文)
+
+24.	Zishuo Zhao, Yuexiang Xie, Jingyou Xie, Zhenzhou Lin, Yaliang Li, **Shen Ying***. Source-free Unsupervised Domain Adaptation For Question Answer. _**In The 48th international Conference on Acoustics, Speech, & Signal Processing (ICASSP 2023)**_. June 4-10. Greece. 2023. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10095248/) (通讯作者，CCF B类会议)
+
+25.	Xie Jingyou, Zhao Zishuo, Lin Zhenzhou, **Shen Ying***. Multimodal Graph Learning for Cross-Modal Retrieval. _**In The SIAM International Conference on Data Mining (SDM 2022)**_. Minneapolis, Minnesota, U.S. April 28 - 30, 2022. [[pdf]](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch17) (通讯作者，CCF B类会议)
+
+26.	Ma Shirong, Li Yinghui, Sun Rongyi, Zhou Qingyu, Huang Shuling, Zhang Ding, Li Yangning, Liu Ruiyang, Li Zhongli, Cao Yunbo, Zheng Hai-Tao*, **Shen Ying***. Linguistic Rules-Based Corpus Generation for Native Chinese Grammatical Error Correction. _**In The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)**_. Abu Dhabi, UAE. Dec 7, 2022. 576–589. [[pdf]](https://aclanthology.org/2022.findings-emnlp.40/) (共同通讯，CCF B类会议正会长文)
+
+27.	Huang Shulin, Ma Shirong, Li Yinghui, Li Yangning, Lin Shiyang, Zheng Hai-Tao*, **Shen Ying***. Towards Attribute-Entangled Controllable Text Generation: A Pilot Study of Blessing Generation. _**In The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 workshop)**_. Abu Dhabi, UAE. Dec 7, 2022. 248-261. [[pdf]](https://aclanthology.org/2022.gem-1.20/) (共同通讯，CCF B类会议workshop长文)
+
+28.	Feng Lingyun, Qiu Minghui, Li Yaliang, Zheng Haitao*, **Shen Ying***. Wasserstein Selective Transfer Learning for Cross-domain Text Mining. _**In The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)**_. Punta Cana, Dominican Republic, Nov 7 – 11, 2021, pp. 9772–9783. [[pdf]](https://aclanthology.org/2021.emnlp-main.770/) (共同通讯，CCF B类会议正会长文)
+
+29.	Liu Haozhuang, Li Ziran, Sheng Dongming, Zheng Hai-Tao*, **Shen Ying***. Multi-Entity Collaborative Relation Extraction. _**In The 46th international Conference on Acoustics, Speech, & Signal Processing (ICASSP 2021)**_. Jun 6-12, 2021. Toronto, Ontario, Canada. 2021. pp. 7678-7682. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9413673/) (共同通讯，CCF B类会议长文)
+
+30.	Chen Daoyuan, Li Yaliang, Ding Bolin, **Shen Ying***. An Adaptive Embedding Framework for Heterogeneous Information Networks. _**In The 29th ACM International Conference on Information and Knowledge Management (CIKM2020)**_. 19-23 October 2020: pp. 165-174. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3340531.3411989) (通讯作者，CCF B类会议长文)
+
+31.	Deng Yang, Li Dagang, Zhang Qiang, **Shen Ying***. Medical Big Data Mining: Joint Symptom Name Recognition and Severity Estimation. _**In IEEE International Conference on Bioinformatics and Biomedicine 2020 (BIBM 2020)**_. Seoul, Korea. 16-19 December 2020: 562-569. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9313543/) (通讯作者，CCF B类会议长文)
+
+32.	Wang Dong†, **Shen Ying†**, Li Ziran, Lin Zibo, Zheng Hai-Tao. Knowledge Enhanced Latent Relevane Mining for Question Answering. _**In The 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020)**_. Barcelona, Spain, May 4-8, 2020. pp. 4282-4286. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9053432/) (共同一作，CCF B类会议长文)
+
+33.	Wang Liuyin, Xu Zihan, Lin Zibo, Zheng Haitao*, **Shen Ying***. Answer-driven Deep Question Generation based on Reinforcement Learning. _**In The 28th International Conference on Computational Linguistics (COLING 2020)**_. Online, December 8-13, 2020. pp. 5159–5170. [[pdf]](https://aclanthology.org/2020.coling-main.452/) (共同通讯，CCF B类会议长文)
+
+34.	Wang Dong, Li Ziran, Zheng Haitao*, **Shen Ying***. Integrating User History into Heterogeneous Graph for Dialogue Act Recognition. _**In The 28th International Conference on Computational Linguistics (COLING 2020)**_. Online, December 8-13, 2020. pp. 4211-4221. [[pdf]](https://aclanthology.org/2020.coling-main.372/) (共同通讯，CCF B类会议长文)
+
+35.	Chen Daoyuan, Li Yaliang, Yang Min, Zheng Hai-Tao, **Shen Ying***. Knowledge-aware Textual Entailment with Graph Attention Network. _**In The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)**_. Beijing, China, November 3rd-7th, 2019. pp. 2145-2148. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3357384.3358071) (通讯作者，CCF B类会议长文)
+
+36.	**Shen Ying**, Wen Desi, Li Yaliang, Du Nan, Zheng Haitao, Yang Min, Path-based Attribute-aware Representation Learning for Relation Prediction. _**In The SIAM International Conference on Data Mining (SDM 2019)**_. Calgary, Canada. May 2 - May 4, 2019. pp. 639-647. [[pdf]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.72) (第一作者，CCF B类会议)
+
+37.	**Shen Ying**, Deng Yang, Zhang J, Li Yaliang, Du Nan, Fan Wei, Lei Kai. IDDAT: An Ontology-Driven Decision Support System for Infectious Disease Diagnosis and Therapy. _**In The 18th IEEE International Conference on Data Mining (ICDM 2018)**_. Singapore, November 17-20, 2018. pp. 1417-1422. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8637479/) (第一作者，CCF B类会议)
+
+38.	**Shen Ying**, Yuan Kaiqi, Li Yaliang, Tang Buzhou, Yang Min, Du Nan, Lei Kai. Drug2Vec: Knowledge-aware Feature-driven Method for Drug Representation Learning. _**In The IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2018)**_. Madrid, Spain, December 3-6 2018. pp. 757-800. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8621390/) (第一作者，CCF B类会议)
+
+39.	Deng Yang, **Shen Ying***, Yang Min, Li Yaliang, Du Nan, Fan Wei, Lei Kai. Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge. _**In The 27th International Conference on Computational Linguistics (COLING 2018)**_. Santa Fe, New-Mexico, USA, August 20-26, 2018. pp. 3295-3305. [[pdf]](https://aclanthology.org/C18-1279/) (通讯作者，CCF B类会议)
+
+40.	Lei Kai, Chen Daoyuan, Li Yaliang, Yang Min, Du Nan, Fan Wei, **Shen Ying***. Cooperative Denoising for Distantly Supervised Relation Extraction. _**In The 27th International Conference on Computational Linguistics (COLING 2018)**_. Santa Fe, New-Mexico, USA, August 20-26, 2018. pp. 426-436. [[pdf]](https://aclanthology.org/C18-1036/) (通讯作者，CCF B类会议) (最佳论文奖 COLING 2018 Best Paper-Area Chair Favorite)
