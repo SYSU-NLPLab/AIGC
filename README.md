@@ -2,11 +2,9 @@
 
 ---
 
-中山大学知识工程实验室是中山大学智能工程学院依据人工智能学科以及计算机网络学科发展需要而建设的实验室，专门从事大规模知识图谱构建和应用技术、自然语言理解与生成、信息抽取、知识计算、信息检索、数据挖掘和智能问答系统等方面的研究。实验室自身已经建立了高效的研发环境，从理论到实践深入掌握了网络挖掘、语义Web以及分布式计算等领域的基本原理和一些关键技术问题，积累了丰富的系统经验，并且在语义Web领域建立了广泛、深入的合作关系，部分研究成果已经得到了国内外同行的认可。
+中山大学知识工程实验室是中山大学智能工程学院依据人工智能学科以及计算机网络学科发展需要而建设的实验室，专门从事自然语言处理、生成式人工智能、多模态计算、人机对话、大语言模型研究与开发等方面的研究。实验室已经建立了高效的研发环境，从理论到实践深入探索模型优化、知识计算与推理等领域的基本原理和一些关键技术问题，积累了丰富的系统经验，并且在人工智能领域建立了广泛、深入的合作关系。
 
-实验室由沈颖副教授担任负责人，实验室成员包括在读博士硕士研究生10余人，研究队伍相对稳定，学术梯队合理。课题组长期深耕于人工智能和知识图谱领域理论和应用的研究工作，在智能计算和知识工程领域有着深厚的研究基础，一直承担知识计算与推理、多模态学习相关项目的研究。
-
-项目组近年来在IEEE TOC, TKDE, TNNLS, TIP, TAC等国际著名顶级 SCI 期刊上，及在AAAI、IJCAI、ACL、EMNLP、ICLR 等顶级国际会议中发表了100多篇相关文章。团队成员受邀在ACL, AAAI, IJCAI, SIGIR等多个人工智能旗舰会议上做了多次特邀报告、数十次分会报告。获得多项人工智能国际比赛冠军、计算机顶级会议COLING最佳论文奖等荣誉。已授权专利7项；授权软件著作权20余项；开源多项研究工作代码和3个数据集。
+实验室由沈颖老师担任负责人，实验室成员包括在读博士硕士研究生20人，研究队伍相对稳定，学术梯队合理。项目组近年来于机械工业出版社出版一本教科书《自然语言处理导论》。共发表了130多篇相关文章，其中SCI期刊50篇，IF>10共13篇，10>IF>7共25篇；CCF A类会议论文29篇，CCF B类会议30篇，高被引热点论文6篇。获得多项人工智能国际比赛冠军、计算机顶级会议COLING最佳论文奖等荣誉。已授权专利18项，授权软件著作权20余项，发布团体标准1项。成果在多家单位中落地应用。
 
 中山大学知识工程实验室是一个充满活力的团队，渴望与国内和国际的同行展开交流与合作。我们将以求真务实的作风、百折不挠的精神，在团结互助的环境中，在自然语言处理领域走出一条创新之路。
 
@@ -48,9 +46,9 @@ Zip Code: 518033
 
 1.	Yang Min, Junhao Liu, Lei Chen, Zhao Zhou, Chen Xiaojun, **Shen Ying***. An Advanced Deep Generative Framework for Link Prediction in Dynamic Networks. _**IEEE Transactions on Cybernetics**_. 2020, 50(12), 4946-4957. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8736786/) (通讯作者，SCI JCR一区，中科院一区, IF:19.118)
 
-2.	Dong Chenhe, Li Yinghui, Gong Haifan, Chen Miaoxin, Li Junxin, **Shen Ying***, Yang Min*. A Survey of Natural Language Generation. _**ACM Computing Surveys**_. 2022. 55(8), 1-38. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3554727) (通讯作者，SCI JCR一区，中科院一区, IF:16.6)(获2022 深圳市优秀科技学术论文奖)(高被引论文)
+2.	Dong Chenhe, Li Yinghui, Gong Haifan, Chen Miaoxin, Li Junxin, **Shen Ying***, Yang Min*. A Survey of Natural Language Generation. _**ACM Computing Surveys**_. 2022. 55(8), 1-38. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3554727) (通讯作者，SCI JCR一区，中科院一区, IF:23.8)(获2022 深圳市优秀科技学术论文奖)(高被引论文)
 
-3.	Zhao Xiaoyan, Deng Yang, Yang Min*, Wang Lingzhi, Zhang Rui, Cheng Hong, Lam Wai, **Shen Ying***, Xu Ruifeng. A Comprehensive Survey on Relation Extraction: Recent Advances and New Frontiers. _**ACM Computing Surveys**_. 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3674501) (通讯作者，SCI JCR一区，中科院一区, IF:16.6)
+3.	Zhao Xiaoyan, Deng Yang, Yang Min*, Wang Lingzhi, Zhang Rui, Cheng Hong, Lam Wai, **Shen Ying***, Xu Ruifeng. A Comprehensive Survey on Relation Extraction: Recent Advances and New Frontiers. _**ACM Computing Surveys**_. 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3674501) (通讯作者，SCI JCR一区，中科院一区, IF:23.8)
 
 4.	Deng Yang, Zhang Wenxuan, Xu Weiwen, **Shen Ying***, Lam Wai. Non-factoid Question Answering as Query-focused Summarization with Graph-enhanced Multi-hop Inference. _**IEEE Transactions on Neural Networks and Learning Systems**_. 2023, 1-15. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10083216/) (通讯作者，SCI JCR一区，中科院一区, IF: 14.255) (高被引论文)
 
